@@ -11,12 +11,6 @@
 Main Page
 </h2>
 
-<div align='center'>
-  <img align="center" alt="Coding" width="70%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/109217697/270954764-6673e332-c72a-4f70-b31b-2b80492d9c69.png">
- <hr>
-
-</div>
-
 
 <h3>Builds With:</h3>
 
